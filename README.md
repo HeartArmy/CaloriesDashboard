@@ -4,7 +4,7 @@ Submitted by: **Mohammed Arham**
 
 **CaloriesDashboard** is a health metrics app that allows users to track their calories. 
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
